@@ -1,0 +1,47 @@
+.categories-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    min-height: 500px;
+}
+.categories-cards{
+    border-radius: 30px;
+    height: 315px;
+    width: 300px;
+    margin: 15px;
+    background-color: #abd1c6;
+}
+
+.categories-img{
+    background-color: none;
+    display: block;
+    margin: 10px auto;
+    height: 200px;
+    width: 250px;
+    border-radius: 20px;
+}
+
+.categories-content{
+    display: block;
+    font-size: 20px;
+    color: darkblue;
+    text-align: center;
+}
+
+.btn{
+    background-color: #2cb67d;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    margin-left: 70px;
+    cursor: pointer
+}
+
+.btn:hover{
+    background-color: #c3f0ca;
+    border: #2cb67d solid 1.5px;
+    transition: 1.5s;
+}
