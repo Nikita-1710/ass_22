@@ -21,3 +21,9 @@ body{
 .nav-content{
     margin: 10px;
 }
+
+.name{
+    font-family: cursive;
+    font-size: 45px;
+    text-align: center;
+}
