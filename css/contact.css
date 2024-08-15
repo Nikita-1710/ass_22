@@ -1,0 +1,27 @@
+.img{
+    height: 50px;
+    width: 50px;
+    margin: 170px;
+    margin-bottom: 0px;
+    
+}
+
+.con-icon{
+    display: flex;
+}
+
+.img1{
+    height: 50px;
+    width: 50px;
+    margin-right: 170px; 
+}
+
+.img2{
+    height: 150px;
+    width: 150px; 
+    margin-top: 20px;
+}
+
+.img3{
+    margin-right: 230px; 
+}
