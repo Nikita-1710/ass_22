@@ -1,3 +1,7 @@
+body{
+    padding: 0;
+    margin: 0;
+}
 .service-img{
     height: 100px;
     width: 100px;
@@ -7,4 +11,17 @@
 
 .font-size{
     font-size: 17px;
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    padding-left: 200px;
+  }
+
+.image-container img{
+    height: 400px;
+    width: 550px;
+    margin: 10px;
 }
