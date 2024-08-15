@@ -25,4 +25,4 @@ Provides information about Nature's Bounty.
 Allows users to get in touch with us via a contact form. Users can send queries or feedback directly from this page.
 
 ## *Visite to our website.*
-[Tap here .](https://naturesbasket.netlify.app/)
+[Tap here .](https://natures-bounty.netlify.app)
